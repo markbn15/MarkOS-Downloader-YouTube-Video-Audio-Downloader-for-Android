@@ -1,6 +1,10 @@
 # MarkOS-Downloader-YouTube-Video-Audio-Downloader-for-Android
 Lightweight and fast Android application to download YouTube videos and audio up to 4K quality, powered by yt-dlp and FFmpeg.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc394ad1-6bdf-4f34-9388-2955bb87019b" alt="Gemini Generated Image" width="300" />
+</p>
+
 
 # MarkOS Downloader 🚀
 
