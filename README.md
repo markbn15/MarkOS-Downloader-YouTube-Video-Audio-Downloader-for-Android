@@ -11,7 +11,7 @@ Lightweight and fast Android application to download YouTube videos and audio up
 ## ✨ Características Principales
 
 * **Formatos y Calidades:** Soporte para descargas en 480p, 720p, 1080p (FHD), 4K (2160p) y extracción directa de solo audio (MP3).
-* **Super Ligero:** APK altamente optimizado (~25 MB) dividido por arquitectura (`arm64-v8a` / `armeabi-v7a`).
+* **Super Ligero:** APK altamente optimizado (~50 MB) dividido por arquitectura (`arm64-v8a` / `armeabi-v7a`).
 * **Interfaz Limpia:** Diseño oscuro intuitivo y enfocado en la usabilidad.
 * **Procesamiento Nativo:** Integración directa con las binarias de FFmpeg para la unión perfecta de video y audio.
 
