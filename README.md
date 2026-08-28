@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dc394ad1-6bdf-4f34-9388-2955bb87019b" alt="MarkOS Downloader Logo" width="200" />
 </p>
-
-[Descargar apk aquí](https://github.com/markbn15/MarkOS-Downloader-YouTube-Video-Audio-Downloader-for-Android/releases/latest)
+<p align="center">
+  <a href="https://github.com/markbn15/MarkOS-Downloader-YouTube-Video-Audio-Downloader-for-Android/releases/latest">
+    <img src="https://img.shields.io/badge/Descargar_apk_aquí-2K?style=for-the-badge&logo=android&color=238636&labelColor=161b22" alt="Descargar apk aquí" height="50" />
+  </a>
+</p>
 <h1 align="center">MarkOS Downloader 🚀</h1>
 
 <p align="center">
